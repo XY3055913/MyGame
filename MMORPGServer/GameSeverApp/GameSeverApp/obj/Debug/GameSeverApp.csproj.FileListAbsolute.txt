@@ -1,0 +1,13 @@
+E:\TestU3DProject\GameSeverApp\GameSeverApp\GameSeverApp\obj\Debug\GameSeverApp.csproj.CoreCompileInputs.cache
+E:\TestU3DProject\GameSeverApp\GameSeverApp\GameSeverApp\bin\Debug\GameSeverApp.exe.config
+E:\TestU3DProject\GameSeverApp\GameSeverApp\GameSeverApp\bin\Debug\GameSeverApp.exe
+E:\TestU3DProject\GameSeverApp\GameSeverApp\GameSeverApp\bin\Debug\GameSeverApp.pdb
+E:\TestU3DProject\GameSeverApp\GameSeverApp\GameSeverApp\obj\Debug\GameSeverApp.exe
+E:\TestU3DProject\GameSeverApp\GameSeverApp\GameSeverApp\obj\Debug\GameSeverApp.pdb
+E:\TestU3DProject\MMORPGServer\GameSeverApp\GameSeverApp\obj\Debug\GameSeverApp.csproj.CoreCompileInputs.cache
+E:\TestU3DProject\MMORPGServer\GameSeverApp\GameSeverApp\obj\Debug\GameSeverApp.exe
+E:\TestU3DProject\MMORPGServer\GameSeverApp\GameSeverApp\obj\Debug\GameSeverApp.pdb
+E:\TestU3DProject\MMORPGServer\GameSeverApp\GameSeverApp\bin\Debug\GameSeverApp.exe.config
+E:\TestU3DProject\MMORPGServer\GameSeverApp\GameSeverApp\bin\Debug\GameSeverApp.exe
+E:\TestU3DProject\MMORPGServer\GameSeverApp\GameSeverApp\bin\Debug\GameSeverApp.pdb
+E:\TestU3DProject\MMORPGServer\GameSeverApp\GameSeverApp\obj\Debug\GameSeverApp.csprojAssemblyReference.cache
